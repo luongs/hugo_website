@@ -1,0 +1,7 @@
+baseURL = "sebastienl.com"
+languageCode = "en-us"
+title = "Sebastien Luong"
+theme = "hallo"
+
+[Author]
+  name = "Sebastien Luong"
